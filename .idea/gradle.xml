@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Car Sharing/task" />
+            <option value="$PROJECT_DIR$/Problems/ASCII Art" />
+            <option value="$PROJECT_DIR$/Problems/Accounts" />
+            <option value="$PROJECT_DIR$/Problems/An infinite numbers supplier" />
+            <option value="$PROJECT_DIR$/Problems/Backward indexes" />
+            <option value="$PROJECT_DIR$/Problems/Bad words detecting" />
+            <option value="$PROJECT_DIR$/Problems/Blacklist" />
+            <option value="$PROJECT_DIR$/Problems/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Problems/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Problems/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/Problems/Count passwords" />
+            <option value="$PROJECT_DIR$/Problems/Count words without repetitions" />
+            <option value="$PROJECT_DIR$/Problems/Creating a set" />
+            <option value="$PROJECT_DIR$/Problems/Creating list" />
+            <option value="$PROJECT_DIR$/Problems/Disjunct all" />
+            <option value="$PROJECT_DIR$/Problems/Find the nearest number" />
+            <option value="$PROJECT_DIR$/Problems/Finding max and min elements" />
+            <option value="$PROJECT_DIR$/Problems/Greek letters" />
+            <option value="$PROJECT_DIR$/Problems/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Problems/Omitting long strings" />
+            <option value="$PROJECT_DIR$/Problems/Print elements of a stream" />
+            <option value="$PROJECT_DIR$/Problems/Range quadratic sum" />
+            <option value="$PROJECT_DIR$/Problems/Removing duplicates and sorting" />
+            <option value="$PROJECT_DIR$/Problems/Sorting the absolute values" />
+            <option value="$PROJECT_DIR$/Problems/Squares list" />
+            <option value="$PROJECT_DIR$/Problems/Symmetric difference" />
+            <option value="$PROJECT_DIR$/Problems/The address book" />
+            <option value="$PROJECT_DIR$/Problems/The longest string in the list" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/ASCII Art" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/The product of squares" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Multiple fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Reverse sorting" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Sort users" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Counting clicks" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/The total sum of transaction by each account" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Generating cats" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Powers of two" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Fix the sorting order" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Inverting streams" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Prime numbers" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The ten most frequent words" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Using streams many times" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/The average salary" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Secret codes" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Sorting and skipping numbers" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Creating a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Modifying a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
